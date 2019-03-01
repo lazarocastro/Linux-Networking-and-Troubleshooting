@@ -1,0 +1,6 @@
+IP Address: 
+Netmask: 
+Gateway: 
+DNS Server: 
+DNS Domain: 
+

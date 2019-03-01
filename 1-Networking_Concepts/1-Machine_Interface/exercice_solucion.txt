@@ -1,0 +1,8 @@
+# Verify if Networkmanager It's works.
+systemctl status NetworkManager
+
+# Use "nmcli c" to show conections.
+nmcli c show
+
+# Use "nmcli d" to show "eth0" information.
+nmcli d show eth0

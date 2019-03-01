@@ -1,0 +1,16 @@
+Instructions
+You will need to populate the Network.txt file located in the cloud_users home directory with the requisite information.
+
+Objectives
+
+Add the IP to network.txt.
+You may use NetworkManager (nmcli) to locate the information you need.
+
+Add the netmask to network.txt.
+You may use NetworkManager (nmcli) to locate the information you need.
+
+Add the gateway IP to the network.txt file.
+You may use NetworkManager (nmcli) to locate the information you need.
+
+Add the DNS domain to network.txt.
+You may use NetworkManager (nmcli) to locate the information you need.
